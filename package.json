@@ -10,6 +10,7 @@
     "@lottiefiles/lottie-player": "^1.7.1",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.13.1",
+    "@mediapipe/pose": "^0.0.3",
     "@ronchalant/react-loading-overlay": "^1.1.0",
     "@tensorflow-models/pose-detection": "^2.0.0",
     "@tensorflow/tfjs": "^3.17.0",
